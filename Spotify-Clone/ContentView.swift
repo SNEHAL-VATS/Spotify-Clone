@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  Spotify-Clone
-//  Created by Manav Deep Singh Lamba on 28/12/21.
-//
-
 import SwiftUI
 
 struct ContentView: View {
